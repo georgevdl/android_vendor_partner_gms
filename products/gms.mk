@@ -1,4 +1,6 @@
 PRODUCT_PACKAGES += \
+	AndroidAutoStubPrebuilt \
+	AndroidAutoOverlay \
 	GmsCore \
 	GsfProxy \
 	FakeStore \
